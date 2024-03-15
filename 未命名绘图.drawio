@@ -1,14 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T14:51:19.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="pSIR32RB6dgbq2Oz_2H5" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T14:59:03.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="pdjKoyF8FoN1BDAGtxh-" version="24.0.7" type="github">
   <diagram name="第 1 页" id="6YtAGA2pLDYQL2xqgKmg">
-    <mxGraphModel dx="1050" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c_GTYrPAv1IX5h7zrbBX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="c_GTYrPAv1IX5h7zrbBX-7" value="LSTM unit" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="34" y="254" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c_GTYrPAv1IX5h7zrbBX-2" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="190" width="100" height="80" as="geometry" />
+        <mxCell id="c_GTYrPAv1IX5h7zrbBX-12" value="LSTM unit" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="314" y="254" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c_GTYrPAv1IX5h7zrbBX-13" value="LSTM unit" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="568" y="252" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c_GTYrPAv1IX5h7zrbBX-14" value="LSTM unit" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="856" y="247" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c_GTYrPAv1IX5h7zrbBX-15" value="Decoding Function" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29.5" y="146" width="89" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_GTYrPAv1IX5h7zrbBX-17" value="Decoding Function" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309.5" y="144" width="89" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_GTYrPAv1IX5h7zrbBX-18" value="Decoding Function" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="146" width="89" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_GTYrPAv1IX5h7zrbBX-19" value="Decoding Function" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="859" y="146" width="89" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_GTYrPAv1IX5h7zrbBX-20" value="Encoding Function" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="146" width="89" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_GTYrPAv1IX5h7zrbBX-21" value="Encoding Function" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="441" y="144" width="89" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_GTYrPAv1IX5h7zrbBX-22" value="Decoding Function" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="144" width="89" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
