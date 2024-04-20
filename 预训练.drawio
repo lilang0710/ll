@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T06:52:08.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Gqs0htPxO2RNT7t3izzM" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T06:56:48.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="oeipJS72Ds-BEYJBchW3" version="24.2.3" type="github">
   <diagram name="第 1 页" id="KLRgWbinqZSVkuUm89tR">
     <mxGraphModel dx="1317" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JG4QHbzKg3VYNoe6uE91-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Auxiliary datase&lt;/b&gt;t&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="JG4QHbzKg3VYNoe6uE91-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Auxiliary dataset&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="43" y="89" width="108" height="213" as="geometry" />
         </mxCell>
-        <mxCell id="JG4QHbzKg3VYNoe6uE91-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Feature extractor&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;direction=south;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="JG4QHbzKg3VYNoe6uE91-2" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Feature extractor&lt;/font&gt;&lt;span class=&quot;content-right_1THTn&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span class=&quot;content-right_1THTn&quot;&gt;Φ&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;direction=south;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="247" y="126" width="138" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="JG4QHbzKg3VYNoe6uE91-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;BDC &lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="JG4QHbzKg3VYNoe6uE91-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;BDC &lt;/b&gt;&lt;/font&gt;&lt;h1 class=&quot;QuestionHeader-title&quot;&gt;φ&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="484" y="129.5" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JG4QHbzKg3VYNoe6uE91-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Multi-similarity loss&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JG4QHbzKg3VYNoe6uE91-13" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;" vertex="1" parent="1">
-          <mxGeometry x="199" y="76" width="414" height="244" as="geometry" />
+          <mxGeometry x="190" y="77" width="414" height="244" as="geometry" />
         </mxCell>
         <mxCell id="JG4QHbzKg3VYNoe6uE91-17" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Forward propagation&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="128" y="359" width="258" height="41" as="geometry" />
